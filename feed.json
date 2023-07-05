@@ -1,0 +1,32 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "是小彧鸭~",
+    "description": "自由散漫，悠哉游哉",
+    "home_page_url": "http://example.com",
+    "items": [
+        {
+            "id": "http://example.com/2023/07/05/Git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/",
+            "url": "http://example.com/2023/07/05/Git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/",
+            "title": "",
+            "date_published": "2023-07-05T01:47:33.089Z",
+            "content_html": "",
+            "tags": []
+        },
+        {
+            "id": "http://example.com/2023/07/03/Latex%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/",
+            "url": "http://example.com/2023/07/03/Latex%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/",
+            "title": "Latex学习笔记",
+            "date_published": "2023-07-03T13:14:23.000Z",
+            "content_html": "<p>下载：texlive, texstudio<br>\n 帮助文件 (texdoc)：ctex, lshort-zh</p>\n<h1 id=\"基本操作\"><a class=\"markdownIt-Anchor\" href=\"#基本操作\">#</a> 基本操作</h1>\n<h2 id=\"设置中文格式\"><a class=\"markdownIt-Anchor\" href=\"#设置中文格式\">#</a> 设置中文格式</h2>\n<blockquote>\n<p>一般使用 &lt;ctex&gt;[1] 这一宏包进行转化</p>\n</blockquote>\n<blockquote>\n<p>[ !info1 ]<br>\n 这是</p>\n</blockquote>\n<h2 id=\"字体属性设置\"><a class=\"markdownIt-Anchor\" href=\"#字体属性设置\">#</a> 字体属性设置</h2>\n",
+            "tags": []
+        },
+        {
+            "id": "http://example.com/2023/07/03/hello-world/",
+            "url": "http://example.com/2023/07/03/hello-world/",
+            "title": "Hello World",
+            "date_published": "2023-07-03T13:06:52.200Z",
+            "content_html": "<p>Welcome to <a href=\"https://hexo.io/\">Hexo</a>! This is your very first post. Check <a href=\"https://hexo.io/docs/\">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href=\"https://hexo.io/docs/troubleshooting.html\">troubleshooting</a> or you can ask me on <a href=\"https://github.com/hexojs/hexo/issues\">GitHub</a>.</p>\n<h2 id=\"quick-start\"><a class=\"markdownIt-Anchor\" href=\"#quick-start\">#</a> Quick Start</h2>\n<h3 id=\"create-a-new-post\"><a class=\"markdownIt-Anchor\" href=\"#create-a-new-post\">#</a> Create a new post</h3>\n<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo new <span class=\"string\">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>\n<p>More info: <a href=\"https://hexo.io/docs/writing.html\">Writing</a></p>\n<h3 id=\"run-server\"><a class=\"markdownIt-Anchor\" href=\"#run-server\">#</a> Run server</h3>\n<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo server</span><br></pre></td></tr></table></figure>\n<p>More info: <a href=\"https://hexo.io/docs/server.html\">Server</a></p>\n<h3 id=\"generate-static-files\"><a class=\"markdownIt-Anchor\" href=\"#generate-static-files\">#</a> Generate static files</h3>\n<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo generate</span><br></pre></td></tr></table></figure>\n<p>More info: <a href=\"https://hexo.io/docs/generating.html\">Generating</a></p>\n<h3 id=\"deploy-to-remote-sites\"><a class=\"markdownIt-Anchor\" href=\"#deploy-to-remote-sites\">#</a> Deploy to remote sites</h3>\n<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo deploy</span><br></pre></td></tr></table></figure>\n<p>More info: <a href=\"https://hexo.io/docs/one-command-deployment.html\">Deployment</a></p>\n",
+            "tags": []
+        }
+    ]
+}
